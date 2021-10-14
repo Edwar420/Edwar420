@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on startup projects
-- 📫 How to reach me through my git account or Twitter account Edward malemo
+- 📫 How to reach me through my git account or Twitter account Edward malemo5
 
 <!---
 Edwar420/Edwar420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
